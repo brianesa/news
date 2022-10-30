@@ -1,16 +1,11 @@
 # news
 
-A new Flutter project.
+Aplikasi sederhana untuk menampilkan berita
 
-## Getting Started
+### Cara Menjalankan Aplikasi Ini
 
-This project is a starting point for a Flutter application.
+1. jalankan perintah berikut ini ```flutter run```
+2. ketik berita yang ingin dicari pada appbar
+3. tap salah satu berita
+4. tap "Read More" untuk melihat berita selengkapnya
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

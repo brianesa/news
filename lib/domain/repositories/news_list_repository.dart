@@ -1,3 +1,5 @@
+import 'package:news/data/models/news_list_model.dart';
+
 abstract class NewsListRepository {
-  Future fetchNewsList({String? query});
+  Future<List<NewsModel>> fetchNewsList({String? query});
 }
